@@ -1,2 +1,2 @@
 replit~=3.2.4
-pandas~=1.3.3
+pandas~=1.3.3![](../../Desktop/Desktop/Ritual_.png)
