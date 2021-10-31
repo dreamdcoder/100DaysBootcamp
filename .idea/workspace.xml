@@ -2,25 +2,920 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f546fa-0a84-4ff9-8f28-4c0ca86f10d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-10/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-10/basic_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11/bj_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-12/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-12/guess_the_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-14/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-14/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-14/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-15/cofeemachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-15/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/cofee_machine_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/money_machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/100DaysBootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysBootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-5/Passwordgenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-5/Passwordgenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-8/ceaser_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-8/ceaser_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/AWS Certified Cloud Practitioner Slides v2.3.2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/EC2Tutorial.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/NNFS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/consoleapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/alias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/application.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/async_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/autocall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/builtin_trap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/compilerop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/completer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/completerlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/crashhandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/debugger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/display_trap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/displayhook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/displaypub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/error.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/excolors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/extensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/formatters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/getipython.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/history.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/historyapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/inputsplitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/inputtransformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/inputtransformer2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/interactiveshell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/latex_symbols.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/macro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magic_arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/auto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/execution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/extension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/history.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/namespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/osm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/pylab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/magics/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/oinspect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/payload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/payloadpage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/prefilter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/profile/README_STARTUP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/profileapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/profiledir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/prompts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/pylabtools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/release.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/shellapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/splitinput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/2x2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/2x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/bad_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/daft_extension/daft_extension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/nonascii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/nonascii2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/print_argv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/refbug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/simpleerr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/tclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_alias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_application.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_async_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_autocall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_compilerop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_completer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_completerlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_debugger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_displayhook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_extension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_formatters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_handlers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_history.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_inputsplitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_inputtransformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_inputtransformer2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_inputtransformer2_line.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_interactiveshell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_iplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_magic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_magic_arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_magic_terminal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_oinspect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_paths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_prefilter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_prompts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_pylabtools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_shellapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_splitinput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/tests/test_ultratb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/ultratb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/core/usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/autoreload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/cythonmagic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/rmagic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/storemagic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/sympyprinting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/tests/test_autoreload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/extensions/tests/test_storemagic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/decorators/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/decorators/_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/decorators/_numpy_testing_noseclasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/mathjax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/qt_for_kernel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/external/qt_loaders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/frontend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/html.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/channels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/channelsabc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/clientabc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/kernelspec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/kernelspecapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/launcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/managerabc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/multikernelmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/restarter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/kernel/threaded.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/backgroundjobs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/clipboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/deepreload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/editorhooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/guisupport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookglut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookgtk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookgtk3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookpyglet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookqt4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/inputhookwx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/kernel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/latextools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/lexers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/pretty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/security.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_backgroundjobs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_clipboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_deepreload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_editorhooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_latextools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_lexers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_pretty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/lib/tests/test_security.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/nbconvert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/nbformat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/parallel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/paths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/qt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/sphinxext/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/sphinxext/custom_doctests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/sphinxext/ipython_console_highlighting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/sphinxext/ipython_directive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/console.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/debugger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/embed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/interactiveshell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/ipapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/magics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/prompts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/glut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/gtk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/gtk3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/osx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/pyglet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/qt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/tk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/pt_inputhooks/wx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/ptshell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/ptutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/shortcuts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/tests/test_debug_magic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/tests/test_embed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/tests/test_help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/terminal/tests/test_interactivshell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/globalipapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/iptest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/iptestcontroller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/ipunittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/dtexample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/ipdoctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/iptest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/show_refs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/simplevars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/test_combo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/test_example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/test_exampleip.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/test_ipdoctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/plugin/test_refs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/skipdoctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/tests/test_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/tests/test_ipunittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/tests/test_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/testing/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/PyColorize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_process_cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_process_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_process_posix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_process_win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_process_win32_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/_sysinfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/colorable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/coloransi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/contexts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/daemonize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/dir2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/eventful.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/generics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/importstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/ipstruct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/jsonutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/localinterfaces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/module_paths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/openpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/pickleutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/py3compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/sentinel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/shimmodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/signatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/strdispatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/sysinfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/syspathcontext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tempdir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/terminal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_dir2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_importstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_module_paths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_openpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_pycolorize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_shimmodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_sysinfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_tempdir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_tokenutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tests/test_wildcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/timing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tokenutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/traitlets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/tz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/ulinecache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/IPython/utils/wildcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/arrays/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/chainmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/chainmap_impl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/numpy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/numpy/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/compat/pickle_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/errors/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_style.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_timeseries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/plotting/_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/test_datetime64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/test_numeric.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/test_object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/test_period.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/arithmetic/test_timedelta64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/computation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/computation/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/computation/test_eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/arrow/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/arrow/bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/arrow/test_bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/casting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/dtype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/getitem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/missing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/printing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/reshaping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/base/setitem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/decimal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/decimal/array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/decimal/test_decimal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/json/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/json/array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/json/test_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/numpy_/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/numpy_/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/numpy_/test_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/numpy_/test_numpy_nested.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_categorical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_external_block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_interval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_period.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/extension/test_sparse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/test_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/test_generic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/test_label_or_level_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/test_panel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/generic/test_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/aggregate/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/aggregate/test_aggregate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/aggregate/test_cython.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/aggregate/test_other.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_apply.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_bin_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_categorical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_counting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_filters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_grouping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_index_as_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_nth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_timegrouper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_value_counts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/groupby/test_whitelist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimelike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_astype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_construction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_date_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_datetimelike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_formats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_missing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_partial_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_scalar_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_setops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_timezones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_astype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_construction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_interval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_interval_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_interval_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/interval/test_interval_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_analytics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_astype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_contains.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_drop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_duplicates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_equivalence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_get_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_integrity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_missing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_monotonic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_partial_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_reindex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_reshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_set_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/multi/test_sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_asfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_astype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_construction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_formats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_partial_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_period.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_period_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_scalar_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_setops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/period/test_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_category.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_frozen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_numeric.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/test_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_astype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_construction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_formats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_partial_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_scalar_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_setops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_timedelta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_timedelta_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexes/timedeltas/test_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/interval/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/interval/test_interval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/interval/test_interval_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_chaining_and_caching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_getitem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_iloc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_indexing_slow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_ix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_loc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_multiindex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_panel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_partial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_set_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_setitem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_slice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/multiindex/test_xs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_callable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_categorical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_chaining_and_caching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_coercion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_floats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_iloc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_indexing_engines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_indexing_slow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_ix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_loc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_panel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_partial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_scalar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/indexing/test_timedelta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/internals/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/internals/test_internals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_boxplot_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_datetimelike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_hist_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/plotting/test_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reductions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reductions/test_reductions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reductions/test_stat_reductions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_datetime_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_period_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_resample_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_resampler_grouper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_time_grouper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/resample/test_timedelta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_merge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_merge_asof.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_merge_index_as_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_merge_ordered.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/merge/test_multi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_concat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_cut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_melt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_pivot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_qcut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_reshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_union_categoricals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/reshape/test_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_block_internals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_combine_concat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_datetime_values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_duplicates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/series/test_timeseries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_analytics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_apply.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_to_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/frame/test_to_from_scipy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/series/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/series/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/series/test_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_combine_concat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_pivot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/sparse/test_reshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_algos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_downstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_expressions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_nanops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_panel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_register_accessor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_take.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/test_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/test_fiscal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/test_offsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/test_offsets_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/test_ticks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/offsets/test_yqm_offsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/test_frequencies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tseries/test_holiday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_array_to_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_ccalendar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_libfrequencies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_liboffsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_normalize_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_parse_iso8601.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_parsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_period_asfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_timedeltas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tests/tslibs/test_timezones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/frequencies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/holiday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/offsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/pandas/tseries/plotting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/_dbscan_inner.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/_feature_agglomeration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/_hierarchical.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/_k_means.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/_k_means_elkan.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/affinity_propagation_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/bicluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/birch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/dbscan_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/hierarchical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/k_means_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/mean_shift_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/optics_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/spectral.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_affinity_propagation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_bicluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_birch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_dbscan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_feature_agglomeration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_hierarchical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_k_means.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_mean_shift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_optics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/cluster/tests/test_spectral.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/_column_transformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/_target.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/tests/test_column_transformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/compose/tests/test_target.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/boston_house_prices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/breast_cancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/diabetes_data.csv.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/diabetes_target.csv.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/digits.csv.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/linnerud_exercise.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/linnerud_physiological.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/data/wine_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/boston_house_prices.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/breast_cancer.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/california_housing.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/covtype.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/diabetes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/digits.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/iris.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/kddcup99.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/lfw.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/linnerud.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/olivetti_faces.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/rcv1.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/descr/wine_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1/api-v1-json-data-1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1/api-v1-json-data-features-1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1/api-v1-json-data-qualities-1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1/data-v1-download-1.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-features-2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-data_version-1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-status-active-.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-qualities-2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/data-v1-download-1666876.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-292.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-40981.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-292.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-40981.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/data-v1-download-49822.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/3/api-v1-json-data-3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/3/api-v1-json-data-features-3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/3/api-v1-json-data-qualities-3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/3/data-v1-download-3.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-561.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-features-561.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/data-v1-download-52739.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-61.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-features-61.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-data_version-1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-status-active-.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-qualities-61.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/data-v1-download-61.arff.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/impute/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/impute/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/impute/_iterative.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/impute/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/impute/tests/test_impute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/bicluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/expected_mutual_info_fast.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/supervised.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/tests/test_bicluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/tests/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/tests/test_supervised.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/tests/test_unsupervised.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/cluster/unsupervised.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/pairwise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/pairwise_fast.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/scorer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_pairwise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/metrics/tests/test_score_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/bayesian_mixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/gaussian_mixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/tests/test_bayesian_mixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/tests/test_gaussian_mixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/mixture/tests/test_mixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/bounds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/liblinear.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/libsvm.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/libsvm_sparse.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/tests/test_bounds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/tests/test_sparse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/svm/tests/test_svm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_calibration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_check_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_discriminant_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_docstring_parameters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_dummy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_isotonic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_kernel_approximation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_kernel_ridge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_metaestimators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_multiclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_multioutput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_naive_bayes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_pipeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_random_projection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tests/test_site_joblib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_criterion.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_criterion.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_reingold_tilford.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_splitter.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_splitter.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_tree.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_tree.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_utils.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/_utils.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/tests/test_export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/tests/test_reingold_tilford.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/tests/test_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/tree/tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_cython_blas.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_joblib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_logistic_sigmoid.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_pprint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_random.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_show_versions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/_unittest_backport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/arrayfuncs.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/class_weight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/estimator_checks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/extmath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/fast_dict.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/fixes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/graph_shortest_path.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/lgamma.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/linear_assignment_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/metaestimators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/mocking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/multiclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/murmurhash.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/optimize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/seq_dataset.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/sparsefuncs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/sparsefuncs_fast.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/stats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_class_weight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_cython_blas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_estimator_checks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_extmath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_fast_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_fixes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_linear_assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_metaestimators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_multiclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_murmurhash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_optimize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_pprint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_seq_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_shortest_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_show_versions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_sparsefuncs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/tests/test_validation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/validation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/sklearn/utils/weight_vector.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/_winpty/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/cywinpty.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/libgcc_s_seh-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/libwinpthread-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/ptyprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/tests/test_cywinpty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/tests/test_ptyprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/tests/test_winpty_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/winpty-agent.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/winpty.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/PP/DSE_Degree/SEM 1/Data Mining/DM Assignment Absenteeism at work/venv/Lib/site-packages/winpty/winpty_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Peter_Lynch_Worth_Magazine_Articles.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Python+Syntax+Cheat+Sheet+Booklet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Wallpapers.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Yogesh Jawalkar -Resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Yogesh Jawalkar -Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/jpeg/20200913_133317-01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/jpeg/20200913_133317-01edit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/jpeg/WhatsApp Image 2020-01-14 at 7.50.44 PM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/jpeg/WhatsApp Image 2020-01-15 at 6.30.45 PM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/jpeg/warranty card.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/loki_accessKeys.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/rootkey.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +933,78 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day-16" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yogeshja\PycharmProjects\100DaysBootcamp\Day-16" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.herst-painting (1)">
+    <configuration name="herst-painting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysBootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-18/herst-painting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="herst-painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysBootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-19/herst-painting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysBootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-23/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysBootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,11 +1013,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-16/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-19/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysBootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-19/turtle_race.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +1049,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.herst-painting (1)" />
+        <item itemvalue="Python.turtle_race" />
+        <item itemvalue="Python.herst-painting" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
